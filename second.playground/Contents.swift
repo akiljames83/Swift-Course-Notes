@@ -43,7 +43,7 @@ var car = SportsCar()
 // Two implementations that have same name but do different things
 
 class Shape {
-    var area: Double?
+    var area: Double? // using the optional opr
     
     func calculateArea(valA: Double, valB: Double) {
         
